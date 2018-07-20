@@ -15,7 +15,7 @@ To this end, we collect data from some subreddits which have explicit topics and
 
 
 | Topic Subreddit | Learning Subreddit |
-|--|
+|--|--|
 | `r/math` | `r/learnmath`  |
 | `r/python` | `r/learnpython`  |
 | `r/datascience` | `r/learnmachinelearning`  |
