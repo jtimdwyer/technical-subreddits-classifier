@@ -1,4 +1,4 @@
-# Project 3: Expert or Pupil? Using text posts to determine subject matter expertise
+# Project 3: Distinguishing Between Technical Subreddits
 _By Tim Dwyer_
 
 ### Problem Statement
