@@ -27,7 +27,7 @@ We will ultimately construct a few models for each of these three classification
 .
 ├── README.md
 ├── data/
-└──  notebooks/
+└── notebooks/
 ```
 
 The `data/` directory is where the `csv` and `json` files are stored after being obtained through the Reddit and Pushshift APIs, as well as the staging ground for files throughout data processing.
