@@ -1,4 +1,4 @@
-# Project 3: Distinguishing Between Technical Subreddits
+# Distinguishing Between Technical Subreddits
 _By Tim Dwyer_
 
 ### Problem Statement
