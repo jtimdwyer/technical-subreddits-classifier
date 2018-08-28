@@ -12,7 +12,7 @@ After processing the collected Reddit threads we fit some Logistic Regression mo
 
 
 |model|baseline| Logistic Regression| K-Nearest neighbors | Decision Tree | Random Forest
-|------|
+|-|-|-|-|-|-|
 |accuracy on test data | 50%| 63.88%| 76.90%| 80.21%| 75.39%|
 
 From this we suggest the use of the decision tree model which can be found, as a pickle file, in the directory [models/](./models).
@@ -20,7 +20,7 @@ From this we suggest the use of the decision tree model which can be found, as a
 ## Summary for Q2
 
 |class| Baseline Accuracy| K-Nearest Neighbors Accuracy | Decision Tree Accuracy | Random Forest Accuracy
-|-|
+|-|-|-|-|-|
 |`datascience`| 67.19%| 68.91% | 79.34% | 79.62%
 |`math`| 53.58% | 63.97% | 86.35% | 83.71%
 |`python`| 61.80%| 58.18% | 83.07% | 79.85%
