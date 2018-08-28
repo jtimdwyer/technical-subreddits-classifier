@@ -44,5 +44,5 @@ The `notebooks/` directory contains a number of Jupyter notebooks that detail th
 3. Modeling
     > Again we have two notebooks for [Q1](./notebooks/4a_modeling.ipynb)  and [Q2](./notebooks/4b_modeling.ipynb) to separate out the two threads of inquiry. We fit and tune a number of Logistic regression models, K-nearest neighbors classifier, Decision Trees and Random Forests. Primary tools: SKLearn, Pandas
 
-4. [Summary and Conclusions](./notebooks/summary.md)
+4. [Summary and Conclusions](./summary.md)
     > This file contains an overview and summary of the results of our modeling and analysis.
